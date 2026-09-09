@@ -2,7 +2,7 @@
 
 Game Development Tools Research
 
-ren.py, https://www.renpy.org, Visual novel engine for python
+ren.py, https://www.renpy.org, Visual novel engine for python, provides framework for devs to add images dialouge and branching storylines
 pygame, https://github.com/pygame/pygame, open source python library for 2d game development
 python arcade, https://github.com/pythonarcade/arcade, 2d game dev library designed to to be simple for begineers 
 godot, https://godotengine.org, general prupose 2d and 3d game engine
